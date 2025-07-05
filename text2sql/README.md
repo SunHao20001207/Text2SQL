@@ -6,6 +6,9 @@
 2. 执行生成的SQL查询语句。
 3. 将查询结果转换为自然语言，便于用户以对话形式与数据库交互。
 
+## 示例图片
+![示例图片](https://github.com/SunHao20001207/Text2SQL/blob/main/text2sql/example/%E7%A4%BA%E4%BE%8B.png?raw=true)
+
 ## 文件夹结构
 
 ```plaintext
